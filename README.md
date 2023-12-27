@@ -6,4 +6,4 @@
 
 교재: 논리적 추론과 증명
 
-<img src = "교재사진.jpg" width="100" height="100">
+<img src = "교재사진.jpg" width="458/2" height="702/2">
